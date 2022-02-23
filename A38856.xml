@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Exact account of the most considerable transactions that hath occurred in Ireland, since the late K. Jame's arrival there</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38856</idno>
+            <idno type="STC">Wing E3575</idno>
+            <idno type="STC">ESTC R9149</idno>
+            <idno type="EEBO-CITATION">13274835</idno>
+            <idno type="OCLC">ocm 13274835</idno>
+            <idno type="VID">98715</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38856)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98715)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 453:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Exact account of the most considerable transactions that hath occurred in Ireland, since the late K. Jame's arrival there</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Printed in double columns.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Ireland --  History --  1688-1689 --  Sources.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:98715:1" rendition="simple:additions"/>
+            <head>An Exact ACCOUNT OF The moſt Conſiderable Tranſactions That <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th Occurred in IRELAND, SINCE The Late K. <hi>JAMES</hi>'s Arrival there.</head>
+            <div type="license">
+               <p>Licens'd and Enter'd according to Order.</p>
+            </div>
+            <div type="text_proper">
+               <opener>
+                  <salute>Dear SIR,</salute>
+               </opener>
+               <p>I Left <hi>Doublin</hi> Iaſt <hi>Saturday</hi>-night, and the Proteſtants there in a moſt confuſed and diſtracted condition. That Morn<g ref="char:EOLhyphen"/>ing Monſieur <hi>D'Aveaux</hi> made his Entry as Embaſſadour from the <hi>French</hi> King, and with great Attendance and Guards, from the Earl of <hi>Clancarty</hi>'s Houſe near the Colledge, to the Caſtle of <hi>Doublin.</hi> He had publick Audi<g ref="char:EOLhyphen"/>ence between Eleven and Twelve; he conclu<g ref="char:EOLhyphen"/>ded his Speech to this effect: <hi>That His Moſt Chriſtian Majeſty did heartily recommend to the Conſideration of his Majeſty of</hi> Great Britain, <hi>the Innocency, Merits, and Loſſes of his Catholick Subjects of</hi> Ireland; <hi>hoping that he would not only Reſtore them to their Eſtates, ſo long poſſeſt by Hereticks and <g ref="char:V">Ʋ</g>ſurpers, but alſo make and contrive ſome way to make them Amends for the great Damages they have ſo long ſuſtained.</hi> That which we generally underſtand by it, is that the late King ſhould give the <hi>Iriſh</hi> not only the Eſtates forfeited by the late Rebellion, but in<g ref="char:EOLhyphen"/>differently all the Proteſtants Eſtates. The ſame day 'twas reſolved on, that the late King ſhould go this week to <hi>London-Derry,</hi> and carry the Earl of <hi>Granard</hi> with him, hoping that by his preſence they might be induced to ſurrender. What the Event may be, God knows; but they are all mightily afraid, unleſs ſpeedy Succours and Encouragement be ſent them, they muſt ſubmit to Mercy; not to the Mercy of a King, but of the <hi>French:</hi> for the late King is to do nothing in the Government, without the Advice of Monſieur <hi>D'Aveaux;</hi> nothing in the Army, without the Conſent of the two <hi>French</hi> Lieutenant-Generals <hi>Roos</hi> &amp; <hi>Mamoon, Leri</hi> and <hi>Puſignan</hi> the Major-Generals; and to diſpoſe of no Money, but as the <hi>French</hi> King's Treaſurer does direct. The whole <hi>Iriſh</hi> Army now in Pay, is ſomething above 40000; of which 20000 lay laſt week before <hi>Colrain,</hi> which is a Paſs to <hi>London-Derry,</hi> and 10000 are on their march the other way toward <hi>Derry,</hi> through the Country of <hi>Monaghan,</hi> and another 10000 ordered now to attend their King, the former 10000 being led by the Duke of <hi>Ber<g ref="char:EOLhyphen"/>wick.</hi> The <hi>Iriſh</hi> have now in their Hands the whole Kingdom, except only <hi>Colrain, London-Derry,</hi> and <hi>Eniskillin.</hi> They have ſeized upon all the Eſtates of thoſe who are in <hi>England:</hi> and the old Proprietors have poſſeſſed themſelves of all the forfeited Eſtates, whether the Owners be in <hi>Ireland</hi> or <hi>England.</hi> All <hi>Munſter,</hi> and moſt part of <hi>Leinſter,</hi> is plundered, ſo that the poor Proteſtants are generally in a moſt Miſe<g ref="char:EOLhyphen"/>rable Periſhing Condition. Sir <hi>Thomas Southwell</hi> and 225 more, moſt of them Gentlemen of good Eſtates, are condemned for High-Treaſon, and to be Hang'd, drawn, and Quarter'd: Their Crimes were only endeavouring to Eſcape out of the County of <hi>Cork</hi> and <hi>Limrick,</hi> where there was nothing but Plundering and Mur<g ref="char:EOLhyphen"/>thering, into the <hi>North,</hi> where all was Quier: Their Eſtates are all declared forfeited: They were in hopes of a Pardon, but they are only Reprieved for ſome time, and kept as Hoſtages. Sir <hi>Lawrence Parſons</hi> of the <hi>Beir,</hi> and a great number of his Tenants, and Gentlemen his Neighbours, were Condemned and Sentenced laſt week at <hi>Philipſtown:</hi> Their Crimes was, that they kept their Doors, ſhut a few days a<g ref="char:EOLhyphen"/>gainſt the Rabble and Dragoons, who plunder<g ref="char:EOLhyphen"/>ed all about them. Eleven Condemned upon ſome account at <hi>Mary-Burrough;</hi> two of which are Hang'd and Quarter'd: as alſo one <hi>Browne,</hi> a Gentleman of an Eſtate at <hi>Cork,</hi> was Hang'd and Quarter'd. And if they have time, I make
+<pb n="2" facs="tcp:98715:2"/>no queſtion but they will try and Condemn all the Gentlemen they can find, upon one Pre<g ref="char:EOLhyphen"/>tence of other; and they keep them with an intention to have ſuch Priſoners of the <hi>Iriſh,</hi> as th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Engliſh</hi> ſhall <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>after take Ex<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>anged for them. In the mean time the Ge<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lemen are under the Sentence of the Law, and moſt bar<g ref="char:EOLhyphen"/>barouſly uſed.</p>
+               <p>The 7th. of <hi>May</hi> a Parliament is to ſit in <hi>Dublin,</hi> the Houſe of Commons will not have one Proteſtant in it, the Houſe of Lords it may be three or<g ref="char:punc">▪</g> four, and I cannot think above ſix or ſeven. They do deſign to confirm all the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Eſtates to the <hi>Iriſh,</hi> to Attaint all the Re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they call them; that is, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ll who are <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow in <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ngland,</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd who they pl<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſe in <hi>Ireland,</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtabliſh <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>pery by an <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ct of Parlia<g ref="char:EOLhyphen"/>ment, and give all the Livings to Papiſts, leaving nothing to Proteſtants, both Laity and Clergy, only Liberty of Conſcience as long as they pleaſe. I had much Diſcourſe laſt Friday with a Papiſt Lord, who came from <hi>Breſt</hi> with King <hi>James,</hi> and was with him at St. <hi>Germains;</hi> and be being in former times much obliged by ſome of my Friends, and moſt of all being out of Humour by having ſome mean pitiful Fellows placed over his Head, which he was not able to bear, he told me all that was in his Heart, and I am confident he had no deſign to deceive me. <hi>In the firſt place, he aſſured me, That there are Spies, who give the Duke of</hi> Tyrconnel <hi>an Ac<g ref="char:EOLhyphen"/>count of every thing that was done and ſaid in</hi> London, <hi>and eſpecially at</hi> White-Hall; <hi>and there<g ref="char:EOLhyphen"/>fore bid me be ſure when ever I went to</hi> England, <hi>to be upon my Guard, for if I ſhould chance to ſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nk my mind freely, notice would be given of it into</hi> Ireland, <hi>and immediately my Friends there would be ruined. He told me, the</hi> French <hi>King had made Solemn Proteſtations, that he would ne<g ref="char:EOLhyphen"/>ver reſt till he had effectually aſſiſted the late King, in order to which, he lent him about</hi> 500000 l. Sterling <hi>in the hands of the</hi> French <hi>Treaſurer, and Arms for</hi> 25000 <hi>Men, with Ammunition proportionable, to bich are now in</hi> Ireland. <hi>That they daily expect from</hi> Breſt 30 <hi>Sail, in which are about</hi> 5000 French <hi>Officers and Souldiers, with more Arms, which are to come to</hi> Kingſale; <hi>and becauſe the</hi> French <hi>King finds that his Friend ru<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ed himſelf by his own Miſcarriage, and being too merciful to the Proteſtants, as he thought, the Abdicated King, is to do nothing without the Ap<g ref="char:EOLhyphen"/>probation of Monſieur</hi> D'Aveaux, <hi>who every one ſays is a very Cunning Man: But ſince he came to</hi> Dublin, <hi>he has Declared himſelf already ſuffi<g ref="char:EOLhyphen"/>ciently againſt all Proteſtants. He ſays, the De<g ref="char:EOLhyphen"/>ſign is, That a conſiderable Body of the</hi> Iriſh <hi>Army, as ſoon as</hi> Derry <hi>has ſubmitted, ſhall March di<g ref="char:EOLhyphen"/>rectly into</hi> Scotland, <hi>where ſome Forces are ex<g ref="char:EOLhyphen"/>pected to joyn with him, in Order to March into the North of</hi> England. <hi>And to divert and amuſe King</hi> William, <hi>the</hi> French <hi>King has promiſed to pour into</hi> Flanders <hi>a great Army, and at one time to Beſiege ſeveral places, which I have forgot: And that he was reſolved to do any thing in the World at this Juncture; even to the going on his Knees to the Emperor and the Pope, ſo that it might be but at Peace with them now. He ſaid, he told me this out of meer Love and good Will, and only<g ref="char:punc">▪</g> with this Deſign, that I might conſider the Matter fairly, and then take my Meaſures as far <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> my own particular Concern goes, from what I <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ld reaſonably expect would be the Event of thoſe Deſigns.</hi>
+               </p>
+               <p>
+                  <hi>His own Opinion, he told me, was, That</hi> Ire<g ref="char:EOLhyphen"/>land <hi>would be perfectly under the Power of the</hi> French <hi>King, and that</hi> England <hi>would have work enough. <g ref="char:V">Ʋ</g>pon the whole, the Adviſed me to be as unconcern'd any way as I could poſſibly. He added, that King</hi> James <hi>has more Friends in</hi> England <hi>than he ſhould have, and that he makes no Que<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>on but very ſhortly to ſee all Proteſtants toge<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>her by the Ears.</hi>
+               </p>
+               <p>Thus, Dear Sir, I have after a confuſed man<g ref="char:EOLhyphen"/>ner (for my Head is ſtill giddy with the Sea) given you an Account of what I conceive is ab<g ref="char:EOLhyphen"/>ſolutely neceſſary ſhould be known at <hi>London</hi> concerning the Affairs of <hi>Ireland.</hi> If I thought my going up to <hi>London,</hi> would do the leaſt Service to that miſerable undone Kingdom, I would not ſtay here one Minute longer. But ſince Men of ſo great Qualities, and Parts, and Eminency, who have left <hi>Ireland,</hi> are able to declare the Truth of what I ſay, I cannot hope that ſuch an obſcure and ordinary a one as I am can ſay much more. I am told ſome Men will not believe the bad condition of that Miſerable Nation; I know not whether it be true; if it be, I wiſh they were there, to ſee the Miſery and Calamities of thoſe many Thouſands of Miſerable, Plundred, and Ruined Proteſtants, who are not able to come away, and are in the Jaws of the moſt Bloody and Barbarous People upon Earth. A few days ago, the Lord <hi>Gal<g ref="char:EOLhyphen"/>moy</hi> took one <hi>Dean Dixies</hi> Son, and another Young Gentleman, both bred up in our Col<g ref="char:EOLhyphen"/>ledge, and not in Arms, and hanged them upon a Sign-Poſt. A Gentleman was ſhot in the Head by two Souldiers at his own Door in <hi>Dublin</hi> laſt Thurſday Night. They Plundred all round <hi>Dublin</hi> at Noon-day, tho' their King be there. There is a Standard ſet upon the top of the Caſtle of <hi>Dublin,</hi> with this Inſcription, NOW OR NEVER, NOW AND FOR EVER. They ſay, the Duke of <hi>Tyrconnel</hi> is to go ſuddenly to <hi>France.</hi> I find the People here are not very apt to believe that the late King is now in <hi>Dublin,</hi> but I aſſure you I ſaw him ſe<g ref="char:EOLhyphen"/>veral times, and I know his Face as well as I do any mans, and it is really he. Yet for all this, many <hi>Iriſh</hi> Officers are ſaid to deſert, find<g ref="char:EOLhyphen"/>ing the <hi>French</hi> preferred before them on all Oc<g ref="char:EOLhyphen"/>caſions, and more regarded, which puts them very much out of Humour, and that they are like to fall abſolutely under the <hi>French</hi> Power. For God's ſake let ſomething be done ſuddenly: <hi>Dublin</hi> has not above 1600 Souldiers now in it; I am confident if 10000 Men were immediately ſent thither, and Arms for 10000 more, they would be able to Defend <hi>Leinſter.</hi> There is now there Hay and Oats ſufficient for 2000 Horſe, and therefore they need not ſtay for Forrage.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Richard Baldwin,</hi> next the <hi>Black Bull</hi> in the <hi>Old-Baily.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
